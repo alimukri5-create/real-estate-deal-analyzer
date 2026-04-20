@@ -4,8 +4,8 @@ This is the main interface for pulling real market data into the deal analyzer.
 """
 
 from typing import Dict, List, Optional, Tuple
-from . import land_registry
-from . import rightmove_scraper
+import land_registry
+import rightmove_scraper
 
 
 def fetch_live_comps(
