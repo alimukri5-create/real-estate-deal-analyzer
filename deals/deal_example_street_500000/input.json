@@ -1,0 +1,7 @@
+{
+  "price": 500000,
+  "hold_years": 5,
+  "strategy": "btl_yield",
+  "rent_annual": 30000,
+  "sqft": 750
+}

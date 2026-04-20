@@ -1,0 +1,31 @@
+{
+  "address": "Example Street, London",
+  "inputs": {
+    "price": 500000,
+    "hold_years": 5,
+    "strategy": "btl_yield",
+    "rent_annual": 30000,
+    "sqft": 750
+  },
+  "extracted_facts": {},
+  "valuation": {
+    "low_fair_value": 394491.0,
+    "base_fair_value": 467373.0,
+    "high_fair_value": 525000,
+    "current_price": 500000,
+    "flag": "overpay",
+    "margin_pct": 7.0,
+    "max_bid": 444004.0
+  },
+  "scenario": {
+    "entry_price": 500000,
+    "capex_estimate": 10000.0,
+    "exit_valuation": 579637.0,
+    "gross_profit": 69637.0,
+    "roi_pct": 13.7,
+    "annualized_roi_pct": 2.6,
+    "max_bid": 444004.0,
+    "hold_period_years": 5
+  },
+  "strategy_name": "Buy-to-Let Yield Play"
+}
